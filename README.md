@@ -23,6 +23,7 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 
 
 <a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/pycharm.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
+
 <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
 
 
