@@ -12,7 +12,7 @@
 
 
 Hi! My name is Roni Jack Vituli  I'm a Software Engineer student at Sami Shamoon College of Engineering
-I am a highly motivated person, and I have an affinity for the software world. In addition, I ran a <a href='https://www.youtube.com/RoniJackVituli'>YouTube channel</a>, where I share the knowledge I gained during my degree studies.
+I am a highly motivated person, and I have an affinity for the software world. Also, I ran a <a href='https://www.youtube.com/RoniJackVituli'>YouTube channel</a>, where I share the knowledge I gained during my degree studies.
 I have a desire to enrich and deepen my knowledge in the software world and discover new things.
 
 
