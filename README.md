@@ -27,5 +27,4 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoniJack&theme=react&show_icons=true)
 
