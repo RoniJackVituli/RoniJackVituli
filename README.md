@@ -28,4 +28,4 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="[https://www.buymeacoffee.com/LeadEx](https://www.buymeacoffee.com/RoniJackVituli)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/RoniJackVituli" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
