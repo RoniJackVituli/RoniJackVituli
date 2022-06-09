@@ -1,6 +1,6 @@
 [![image](https://www.linkpicture.com/q/gitphoto.png)](https://www.linkpicture.com/view.php?img=LPic628299f8719e1765297636)
 
-###   <p align ="center" > Hey There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </p>
+###   <p align ="center" > Hey There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" high="30px"> </p>
 
  <p align ="center"><img src ="https://img.shields.io/badge/RJV-Developer-blue"></p>
 
