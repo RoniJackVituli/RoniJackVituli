@@ -6,8 +6,8 @@
 
 ## <p align ="center" > You Also Can Find Me Here!</p>
 <p align ="center">
-<a href='https://www.instagram.com/ronijackvituli/'><img src='https://www.linkpicture.com/q/icons8-instagram-48.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic62834989e83171092470737'><img src='https://www.linkpicture.com/q/icons8-linkedin-circled-48.png' type='image'></a><a href='https://www.youtube.com/RoniJackVituli'><img src='https://www.linkpicture.com/q/icons8-youtube-48.png' type='image'></a><a href='https://www.facebook.com/RoniJackVituli'><img src='https://www.linkpicture.com/q/icons8-facebook-48_1.png' type='image'></a>
+<a href="https://www.facebook.com/RoniJackVituli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RoniJack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/RoniJackVituli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/RoniJackVituli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/RoniJackVituli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+
 </p>
 
 
