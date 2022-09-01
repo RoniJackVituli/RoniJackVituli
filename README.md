@@ -18,8 +18,9 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 
  <img align="right" alt="GIF" src="https://www.linkpicture.com/q/code_1.gif" width="500" height="320" />
 
-### **Languages & Tools:**
-
+#### **Languages & Tools:**
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/c.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/python.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/java.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/html.png"></a>
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -29,6 +30,7 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<br>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
@@ -38,6 +40,11 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+
+<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/pycharm.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
+
+<img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+<a href="http://www.github.com/RoniJack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RoniJack&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/RoniJack"><img src="https://activity-graph.herokuapp.com/graph?username=RoniJack&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
