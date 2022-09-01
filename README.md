@@ -18,8 +18,6 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 
  <img align="right" alt="GIF" src="https://www.linkpicture.com/q/code_1.gif" width="500" height="320" />
 
-#### **Languages & Tools:**
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/cpp.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/c.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/python.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/java.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/html.png"></a>
 ### Skills
 
 <p align="left">
@@ -40,8 +38,6 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
-<a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/eclipse.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/git.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/pycharm.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/sql.png"></a><a href="#"><img height="25" src="https://vk-codes.com/assests/images/icons/visual.png"></a>
 
 <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
 <a href="http://www.github.com/RoniJack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RoniJack&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
