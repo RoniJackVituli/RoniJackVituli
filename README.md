@@ -1,5 +1,5 @@
 [![image](https://www.linkpicture.com/q/gitphoto.png)](https://www.linkpicture.com/view.php?img=LPic628299f8719e1765297636)
-###   <p align ="center" height="20px" width="20px"> Hey!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roni Jack Vituli </p>
+###   <p align ="center" height="20px" width="20px"> Hey! 👋 My name is Roni Jack Vituli </p>
 ##     <p align = "center"> Full Stack Developer </p>
 
  <p align ="center"><img src ="https://img.shields.io/badge/RJV-Developer-blue"></p>
