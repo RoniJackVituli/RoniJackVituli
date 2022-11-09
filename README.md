@@ -1,4 +1,4 @@
-[![image](https://www.linkpicture.com/q/gitphoto.png)](https://www.linkpicture.com/view.php?img=LPic628299f8719e1765297636)
+[![gitlogo.png](https://i.postimg.cc/W3KsXBDG/gitlogo.png)](https://postimg.cc/476C3FQy)
 #  <p align ="center" height="40px" width="40px"> Hey! 👋 My name is Roni Jack Vituli </p>
 ##     <p align = "center"> Full Stack Developer | Programming YouTuber | Software Engineer </p>
 
