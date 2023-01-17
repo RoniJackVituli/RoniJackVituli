@@ -47,8 +47,6 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 </p>
 
 
-<a href="http://www.github.com/RoniJack"><img src="https://activity-graph.herokuapp.com/graph?username=RoniJackVituli&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ![snake gif](https://github.com/RoniJackVituli/RoniJackVituli/blob/output/github-contribution-grid-snake.svg)
  
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
