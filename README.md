@@ -50,6 +50,13 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 
 ![RoniJackVituli-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoniJackVituli&theme=react)
 
+ 
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=RoniJackVituli&show_icons=true&theme=github-compact)
+
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoniJackVituli&show_icons=true&theme=github-compact)
+
+![GitProfile-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoniJackVituli&theme=react-dark)
+ 
 ![snake gif](https://github.com/RoniJackVituli/RoniJackVituli/blob/output/github-contribution-grid-snake.svg)
  
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
