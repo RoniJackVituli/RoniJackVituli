@@ -2,7 +2,6 @@
 #  <p align ="center" height="40px" width="40px"> Hey! 👋 My name is Roni Jack Vituli </p>
 ##     <p align = "center"> Full Stack Developer | Programming YouTuber | Software Engineer </p>
 <p align ="center"><img src ="https://img.shields.io/badge/RJV-Developer-blue"></p>
-<p><img src ="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white"/><img src ="https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge"/><img src ="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/><img src ="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/><img src ="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"/><img src ="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/><img src ="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><img src ="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white"/><img src ="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/><img src ="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white"/><img src ="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white"/></p>
 
 
 
