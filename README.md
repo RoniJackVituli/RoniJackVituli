@@ -18,7 +18,7 @@ I am a highly motivated person, and I have an affinity for the software world. A
 I have a desire to enrich and deepen my knowledge in the software world and discover new things.
 
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
 ### Technologies I learned in my degree studies.
 
 <p align="left">
