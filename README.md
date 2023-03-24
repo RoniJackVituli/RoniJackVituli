@@ -17,13 +17,16 @@ Hi! My name is Roni Jack Vituli  I'm a Software Engineer student at Sami Shamoon
 I am a highly motivated person, and I have an affinity for the software world. Also, I ran a <a href='https://www.youtube.com/RoniJackVituli'>YouTube channel</a>, where I share the knowledge I gained during my degree studies.
 I have a desire to enrich and deepen my knowledge in the software world and discover new things.
 
-<p align="right">
+<p align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jflqydbjn0r6qpmdleb5emxgw0rkf1xecfqjkzzb&rid=giphy.gif&ct=g" width="480" height="360"/>
 </p>
 
+<p align ="center">
 ### Technologies I learned in my degree studies.
+</p>
 
-<p align="left">
+
+<p align="center">
 <a  href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -34,9 +37,9 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
  <br>
  </p>
  
- 
+ <p align ="center">
  ### Technologies I want to work with.
- 
+ </p>
  
  <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
