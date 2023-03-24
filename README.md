@@ -21,7 +21,7 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jflqydbjn0r6qpmdleb5emxgw0rkf1xecfqjkzzb&rid=giphy.gif&ct=g" width="480" height="360"/>
 </p>
 
-<p align ="center" style={{fontSize:'50px'}}>
+<p align ="center">
 Technologies I learned in my degree studies.
 </p>
 
@@ -38,7 +38,7 @@ Technologies I learned in my degree studies.
  </p>
  
  <p align ="center">
- ### Technologies I want to work with.
+Technologies I want to work with.
  </p>
  
  <p align="center">
