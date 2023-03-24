@@ -21,8 +21,8 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jflqydbjn0r6qpmdleb5emxgw0rkf1xecfqjkzzb&rid=giphy.gif&ct=g" width="480" height="360"/>
 </p>
 
-<p align ="center">
-### Technologies I learned in my degree studies.
+<p align ="center" style={{fontSize:'50px'}}>
+Technologies I learned in my degree studies.
 </p>
 
 
@@ -41,7 +41,7 @@ I have a desire to enrich and deepen my knowledge in the software world and disc
  ### Technologies I want to work with.
  </p>
  
- <p align="left">
+ <p align="center">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
