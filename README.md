@@ -18,7 +18,7 @@ I am a highly motivated person, and I have an affinity for the software world. A
 I have a desire to enrich and deepen my knowledge in the software world and discover new things.
 
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
 ### Technologies I learned in my degree studies.
 
 <p align="left">
