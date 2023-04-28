@@ -1,6 +1,6 @@
 ![gitphoto](https://user-images.githubusercontent.com/100803621/216999534-8a0425f1-7296-47f3-bbc4-0454ee2d62f8.png)
 #  <p align ="center" height="40px" width="40px"> Hey! 👋 My name is Roni Jack Vituli </p>
-##     <p align = "center"> Full Stack Developer | Programming YouTuber | Software Engineer </p>
+##     <p align = "center"> Full Stack Developer | YouTuber | Software Engineer </p>
 <p align ="center"><img src ="https://img.shields.io/badge/RJV-Developer-blue"></p>
 
 
