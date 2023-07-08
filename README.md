@@ -52,7 +52,6 @@ Technologies I want to work with.
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 </p>
 
-![RoniJackVituli-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoniJackVituli&theme=react)
 
 ![snake gif](https://github.com/RoniJackVituli/RoniJackVituli/blob/output/github-contribution-grid-snake.svg)
  
